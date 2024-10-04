@@ -18,4 +18,5 @@
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hproncino&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hproncino&show_icons=true&theme=radical)
+[![Cortezz_Henry](https://github-readme-stats.vercel.app/api/top-langs/?username=hproncino&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
