@@ -11,6 +11,8 @@ Atualmente estudando Ciências da Computação na Universidade Nove de Julho.<br
 ![](https://github-readme-stats.vercel.app/api?username=hproncino&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hproncino&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hproncino&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
+[![](https://visitcount.itsvg.in/api?id=Hproncino&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### ✍️ Frases Aleatórias de dev´s
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
