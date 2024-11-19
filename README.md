@@ -1,5 +1,5 @@
 # Sobre mim:
-Atualmente estudando Ciências da Computação na Universidade Nove de Julho.<br><br>Estou aprendendo JavaScript e C/C++<br><br>Se puder me ajudar a aprender sobre outras linguagens já agradeço.<br><br>E-mail de contato: pimentel2henry@gmail.com
+Atualmente estudando Ciências da Computação na Universidade Nove de Julho.<br><br>E-mail de contato: pimentel2henry@gmail.com
 
 
 ## 🌐 Socials:
