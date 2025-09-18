@@ -1,5 +1,5 @@
 # Sobre mim:
-Just a computer science student, and a tech entusiast.</br>"Wouldst thou truly lordship sanction, in one so bereft of light?"
+Just a computer science student, trying to survive.</br>"Wouldst thou truly lordship sanction, in one so bereft of light?"
 
 
 ##  Socials:
