@@ -1,5 +1,5 @@
 # Sobre mim:
-Just a computer science student, trying to survive.</br> Computer Science Student at Universidade Nove de Julho.</br>"Wouldst thou truly lordship sanction, in one so bereft of light?"
+Computer Science student at Uninove University.</br> I like LLM´s.</br>"Wouldst thou truly lordship sanction, in one so bereft of light?"
 
 
 ##  Socials:
