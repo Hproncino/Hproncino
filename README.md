@@ -40,10 +40,5 @@ Computer Science student at Uninove University.</br> I like LLM´s.</br>"Wouldst
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
 </div>
 
-#  GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=hproncino&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hproncino&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
----
-
-###  Random Quotes
+###  Some Random Quotes...
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
