@@ -40,5 +40,8 @@ Computer Science student at Uninove University.</br> I like LLM´s.</br>"Wouldst
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
 </div>
 
-###  Some Random Quotes...
+</br>
+</br>
+
+###  Quotues from peaple that I dont know, but they´re cool
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
