@@ -43,5 +43,5 @@ Computer Science student at Uninove University.</br> I like LLM´s.</br>"Wouldst
 </br>
 </br>
 
-###  Quotues from peaple that I dont know, but they´re cool
+###  Quotes from peaple that I dont know, but they´re cool
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
