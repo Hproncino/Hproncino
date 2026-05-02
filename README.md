@@ -1,10 +1,6 @@
 # Sobre mim:
 Computer Science student at Uninove University.</br> I like LLM´s.</br>"Wouldst thou truly lordship sanction, in one so bereft of light?"
 
-
-##  Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henry-pimentel-cortez-b55884216/)
-
 #  Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
